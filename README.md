@@ -6,7 +6,7 @@
     <header></header>
     <aside></aside>
     <main>
-        <h1>Hello! my name is Andrey,<p> and i am at the start of my development in IT</p> </h1>
+        <h1>Hello! my name is Andrey </h1>
     </main>
     <footer></footer>
   </body>
